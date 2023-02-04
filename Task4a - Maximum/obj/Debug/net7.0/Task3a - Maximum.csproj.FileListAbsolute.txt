@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\Task3a - Maximum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\Task3a - Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\Task3a - Maximum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\Task3a - Maximum.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\Task3a - Maximum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\bin\Debug\net7.0\Task3a - Maximum.exe
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\bin\Debug\net7.0\Task3a - Maximum.deps.json
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\bin\Debug\net7.0\Task3a - Maximum.runtimeconfig.json
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\bin\Debug\net7.0\Task3a - Maximum.dll
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\bin\Debug\net7.0\Task3a - Maximum.pdb
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\Task3a - Maximum.dll
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\refint\Task3a - Maximum.dll
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\Task3a - Maximum.pdb
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\Task3a - Maximum.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar1\Task3a - Maximum\obj\Debug\net7.0\ref\Task3a - Maximum.dll

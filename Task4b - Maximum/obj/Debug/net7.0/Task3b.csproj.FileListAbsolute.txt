@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar1\Task3b\bin\Debug\net7.0\Task3b.exe
+C:\Users\User\Desktop\Seminar1\Task3b\bin\Debug\net7.0\Task3b.deps.json
+C:\Users\User\Desktop\Seminar1\Task3b\bin\Debug\net7.0\Task3b.runtimeconfig.json
+C:\Users\User\Desktop\Seminar1\Task3b\bin\Debug\net7.0\Task3b.dll
+C:\Users\User\Desktop\Seminar1\Task3b\bin\Debug\net7.0\Task3b.pdb
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\Task3b.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\Task3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\Task3b.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\Task3b.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\Task3b.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\Task3b.dll
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\refint\Task3b.dll
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\Task3b.pdb
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\Task3b.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar1\Task3b\obj\Debug\net7.0\ref\Task3b.dll

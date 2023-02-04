@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\bin\Debug\net7.0\Task4c - Maximum.exe
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\bin\Debug\net7.0\Task4c - Maximum.deps.json
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\bin\Debug\net7.0\Task4c - Maximum.runtimeconfig.json
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\bin\Debug\net7.0\Task4c - Maximum.dll
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\bin\Debug\net7.0\Task4c - Maximum.pdb
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\Task4c - Maximum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\Task4c - Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\Task4c - Maximum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\Task4c - Maximum.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\Task4c - Maximum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\Task4c - Maximum.dll
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\refint\Task4c - Maximum.dll
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\Task4c - Maximum.pdb
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\Task4c - Maximum.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar1\Task4c - Maximum\obj\Debug\net7.0\ref\Task4c - Maximum.dll
