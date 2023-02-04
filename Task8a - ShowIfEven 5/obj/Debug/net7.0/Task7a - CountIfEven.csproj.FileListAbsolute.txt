@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\bin\Debug\net7.0\Task7a - CountIfEven.exe
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\bin\Debug\net7.0\Task7a - CountIfEven.deps.json
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\bin\Debug\net7.0\Task7a - CountIfEven.runtimeconfig.json
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\bin\Debug\net7.0\Task7a - CountIfEven.dll
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\bin\Debug\net7.0\Task7a - CountIfEven.pdb
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\Task7a - CountIfEven.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\Task7a - CountIfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\Task7a - CountIfEven.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\Task7a - CountIfEven.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\Task7a - CountIfEven.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\Task7a - CountIfEven.dll
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\refint\Task7a - CountIfEven.dll
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\Task7a - CountIfEven.pdb
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\Task7a - CountIfEven.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar1\Task7a - CountIfEven\obj\Debug\net7.0\ref\Task7a - CountIfEven.dll
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\Task7a - CountIfEven.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\Task7a - CountIfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\Task7a - CountIfEven.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\Task7a - CountIfEven.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\Task7a - CountIfEven.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\Task7a - CountIfEven.dll
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\refint\Task7a - CountIfEven.dll
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\Task7a - CountIfEven.pdb
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\bin\Debug\net7.0\Task7a - CountIfEven.exe
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\bin\Debug\net7.0\Task7a - CountIfEven.deps.json
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\bin\Debug\net7.0\Task7a - CountIfEven.runtimeconfig.json
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\bin\Debug\net7.0\Task7a - CountIfEven.dll
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\bin\Debug\net7.0\Task7a - CountIfEven.pdb
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\Task7a - CountIfEven.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar1\Task8a - ShowIfEven 5\obj\Debug\net7.0\ref\Task7a - CountIfEven.dll
