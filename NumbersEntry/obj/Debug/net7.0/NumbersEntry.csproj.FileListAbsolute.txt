@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar1\NumbersEntry\bin\Debug\net7.0\NumbersEntry.exe
+C:\Users\User\Desktop\Seminar1\NumbersEntry\bin\Debug\net7.0\NumbersEntry.deps.json
+C:\Users\User\Desktop\Seminar1\NumbersEntry\bin\Debug\net7.0\NumbersEntry.runtimeconfig.json
+C:\Users\User\Desktop\Seminar1\NumbersEntry\bin\Debug\net7.0\NumbersEntry.dll
+C:\Users\User\Desktop\Seminar1\NumbersEntry\bin\Debug\net7.0\NumbersEntry.pdb
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\NumbersEntry.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\NumbersEntry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\NumbersEntry.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\NumbersEntry.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\NumbersEntry.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\NumbersEntry.dll
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\refint\NumbersEntry.dll
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\NumbersEntry.pdb
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\NumbersEntry.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar1\NumbersEntry\obj\Debug\net7.0\ref\NumbersEntry.dll
